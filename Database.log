@@ -1,0 +1,453 @@
+2021-11-24 01:38:33,506:__main__:INFO:DONE
+2021-11-24 01:38:44,406:__main__:ERROR:Could not reach the url.
+2021-11-24 02:01:03,934:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:01:03,935:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:01:03,959:__main__:INFO:Executing: migration_general_table_construct.sql
+2021-11-24 02:01:03,962:__main__:INFO:None
+2021-11-24 02:02:10,140:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:02:10,142:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:02:10,147:__main__:INFO:Migrations table exists
+2021-11-24 02:02:10,149:__main__:INFO:Executing: migration_general_table_construct.sql
+2021-11-24 02:02:10,151:__main__:INFO:None
+2021-11-24 02:02:19,661:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:02:19,662:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:02:19,664:__main__:INFO:Migrations table exists
+2021-11-24 02:02:19,665:__main__:INFO:Executing: migration_general_table_construct.sql
+2021-11-24 02:02:19,667:__main__:INFO:None
+2021-11-24 02:03:35,663:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:03:35,663:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:03:35,666:__main__:INFO:Migrations table exists
+2021-11-24 02:03:35,668:__main__:INFO:Executing: migration_general_table_construct.sql
+2021-11-24 02:03:35,669:__main__:INFO:None
+2021-11-24 02:13:57,615:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:13:57,616:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:14:16,855:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:14:16,856:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:14:20,286:__main__:INFO:DONE
+2021-11-24 02:14:22,637:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:14:22,651:__main__:INFO:The given page didn't have any list of actors. Make sure you are using the imdb.com website url.
+2021-11-24 02:15:06,886:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:15:06,887:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:15:11,028:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:15:11,041:__main__:INFO:The given page didn't have any list of actors. Make sure you are using the imdb.com website url.
+2021-11-24 02:16:22,471:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:16:22,472:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:16:29,816:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:16:29,829:__main__:INFO:The given page didn't have any list of actors. Make sure you are using the imdb.com website url.
+2021-11-24 02:17:51,478:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:17:51,479:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:18:13,478:__main__:INFO:DONE
+2021-11-24 02:18:14,918:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:18:16,739:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:18:16,740:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:18:19,768:__main__:INFO:DONE
+2021-11-24 02:18:21,237:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:18:30,497:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:18:30,498:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:18:33,257:__main__:INFO:DONE
+2021-11-24 02:18:34,580:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:18:34,593:__main__:INFO:The given page didn't have any list of actors. Make sure you are using the imdb.com website url.
+2021-11-24 02:19:27,605:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:19:27,606:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:19:35,001:__main__:INFO:DONE
+2021-11-24 02:19:36,577:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:19:36,590:__main__:INFO:The given page didn't have any list of actors. Make sure you are using the imdb.com website url.
+2021-11-24 02:19:47,292:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:19:47,292:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:19:50,349:__main__:INFO:DONE
+2021-11-24 02:19:51,805:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:19:51,819:__main__:INFO:The given page didn't have any list of actors. Make sure you are using the imdb.com website url.
+2021-11-24 02:21:54,034:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:21:54,036:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:21:58,089:__main__:INFO:DONE
+2021-11-24 02:21:59,567:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:21:59,580:__main__:INFO:The given page didn't have any list of actors. Make sure you are using the imdb.com website url.
+2021-11-24 02:22:40,689:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:22:40,690:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:22:43,631:__main__:INFO:DONE
+2021-11-24 02:22:45,363:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:22:54,005:__main__:INFO:DONE
+2021-11-24 02:22:55,337:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:23:02,409:__main__:INFO:DONE
+2021-11-24 02:23:04,024:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:23:04,055:__main__:INFO:DONE
+2021-11-24 02:23:05,543:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:23:05,564:__main__:INFO:DONE
+2021-11-24 02:23:07,588:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:23:07,610:__main__:INFO:DONE
+2021-11-24 02:23:09,110:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:23:11,678:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:23:11,679:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:23:18,273:__main__:INFO:DONE
+2021-11-24 02:23:21,689:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:25:05,798:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:25:05,799:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:25:09,149:__main__:INFO:DONE
+2021-11-24 02:25:11,047:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:25:11,060:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Emma Watson','Belle','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,061:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Dan Stevens','Beast','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,061:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Luke Evans','Gaston','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,062:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Josh Gad','LeFou','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,062:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Kevin Kline','Maurice','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,063:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Hattie Morahan','Agathe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,064:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Haydn Gwynne','Clothilde','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,065:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Gerard Horan','Jean the Potter','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,066:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Ray Fearon','Père Robert','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,067:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Ewan McGregor','Lumière','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,067:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Ian McKellen','Cogsworth','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,068:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Emma Thompson','Mrs. Potts','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,069:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Nathan Mack','Chip','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,069:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Audra McDonald','Madame Garderobe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,070:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Stanley Tucci','Maestro Cadenza','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,070:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Gugu Mbatha-Raw','Plumette','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,071:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Clive Rowe','Cuisinier','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:25:11,071:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Thomas Padden','Chapeau','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:37,694:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:29:37,695:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:29:42,392:__main__:INFO:DONE
+2021-11-24 02:29:43,897:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:29:43,911:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Emma Watson','Belle','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,912:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Dan Stevens','Beast','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,913:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Luke Evans','Gaston','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,914:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Josh Gad','LeFou','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,915:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Kevin Kline','Maurice','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,915:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Hattie Morahan','Agathe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,916:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Haydn Gwynne','Clothilde','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,917:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Gerard Horan','Jean the Potter','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,918:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Ray Fearon','Père Robert','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,919:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Ewan McGregor','Lumière','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,920:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Ian McKellen','Cogsworth','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,921:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Emma Thompson','Mrs. Potts','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,922:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Nathan Mack','Chip','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,922:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Audra McDonald','Madame Garderobe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,923:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Stanley Tucci','Maestro Cadenza','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,924:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Gugu Mbatha-Raw','Plumette','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,925:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Clive Rowe','Cuisinier','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:29:43,925:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Thomas Padden','Chapeau','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:45,640:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:30:45,641:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:30:51,142:__main__:INFO:DONE
+2021-11-24 02:30:53,848:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:30:53,861:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Emma Watson','Belle','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,862:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Dan Stevens','Beast','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,862:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Luke Evans','Gaston','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,863:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Josh Gad','LeFou','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,864:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Kevin Kline','Maurice','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,864:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Hattie Morahan','Agathe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,865:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Haydn Gwynne','Clothilde','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,866:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Gerard Horan','Jean the Potter','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,866:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Ray Fearon','Père Robert','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,867:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Ewan McGregor','Lumière','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,868:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Ian McKellen','Cogsworth','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,868:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Emma Thompson','Mrs. Potts','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,869:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Nathan Mack','Chip','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,870:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Audra McDonald','Madame Garderobe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,870:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Stanley Tucci','Maestro Cadenza','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,871:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Gugu Mbatha-Raw','Plumette','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,871:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Clive Rowe','Cuisinier','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:30:53,872:__main__:ERROR:INSERT INTO 'actors' ('actor','role','url') VALUES('Thomas Padden','Chapeau','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:37,255:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:35:37,256:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:35:40,341:__main__:INFO:DONE
+2021-11-24 02:35:41,914:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:35:41,928:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Watson','Belle','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,928:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Dan Stevens','Beast','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,929:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Luke Evans','Gaston','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,930:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Josh Gad','LeFou','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,930:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Kevin Kline','Maurice','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,931:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Hattie Morahan','Agathe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,932:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Haydn Gwynne','Clothilde','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,933:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gerard Horan','Jean the Potter','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,934:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ray Fearon','Père Robert','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,935:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ewan McGregor','Lumière','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,936:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ian McKellen','Cogsworth','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,936:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Thompson','Mrs. Potts','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,937:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Nathan Mack','Chip','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,938:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Audra McDonald','Madame Garderobe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,939:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Stanley Tucci','Maestro Cadenza','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,939:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gugu Mbatha-Raw','Plumette','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,940:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Clive Rowe','Cuisinier','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:35:41,941:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Thomas Padden','Chapeau','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:36:43,104:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:36:43,106:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:36:45,877:__main__:INFO:DONE
+2021-11-24 02:36:47,568:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:36:47,581:__main__:INFO:The given page didn't have any list of actors. Make sure you are using the imdb.com website url.
+2021-11-24 02:38:07,039:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:38:07,040:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:38:09,839:__main__:INFO:DONE
+2021-11-24 02:38:11,438:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:38:11,451:__main__:INFO:The given page didn't have any list of actors. Make sure you are using the imdb.com website url.
+2021-11-24 02:40:10,256:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:40:10,257:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:40:16,386:__main__:INFO:DONE
+2021-11-24 02:40:17,756:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:40:17,769:__main__:INFO:The given page didn't have any list of actors. Make sure you are using the imdb.com website url.
+2021-11-24 02:47:35,817:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:47:35,818:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:47:39,904:__main__:INFO:DONE
+2021-11-24 02:47:42,325:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:47:42,337:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Watson','Belle','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,338:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Dan Stevens','Beast','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,340:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Luke Evans','Gaston','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,340:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Josh Gad','LeFou','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,341:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Kevin Kline','Maurice','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,342:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Hattie Morahan','Agathe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,342:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Haydn Gwynne','Clothilde','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,343:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gerard Horan','Jean the Potter','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,344:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ray Fearon','Père Robert','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,344:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ewan McGregor','Lumière','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,345:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ian McKellen','Cogsworth','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,346:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Thompson','Mrs. Potts','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,346:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Nathan Mack','Chip','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,347:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Audra McDonald','Madame Garderobe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,348:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Stanley Tucci','Maestro Cadenza','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,348:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gugu Mbatha-Raw','Plumette','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,349:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Clive Rowe','Cuisinier','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:47:42,350:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Thomas Padden','Chapeau','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:34,332:__main__:INFO:DONE
+2021-11-24 02:50:35,905:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:50:35,919:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Watson','Belle','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,920:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Dan Stevens','Beast','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,921:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Luke Evans','Gaston','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,921:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Josh Gad','LeFou','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,922:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Kevin Kline','Maurice','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,923:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Hattie Morahan','Agathe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,924:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Haydn Gwynne','Clothilde','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,924:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gerard Horan','Jean the Potter','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,925:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ray Fearon','Père Robert','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,926:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ewan McGregor','Lumière','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,926:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ian McKellen','Cogsworth','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,927:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Thompson','Mrs. Potts','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,927:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Nathan Mack','Chip','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,928:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Audra McDonald','Madame Garderobe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,928:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Stanley Tucci','Maestro Cadenza','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,929:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gugu Mbatha-Raw','Plumette','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,929:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Clive Rowe','Cuisinier','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:35,929:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Thomas Padden','Chapeau','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:36,396:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:50:36,397:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:50:40,053:__main__:INFO:DONE
+2021-11-24 02:50:41,284:__main__:INFO:The connection to the url was succesful
+2021-11-24 02:50:41,297:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Watson','Belle','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,297:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Dan Stevens','Beast','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,298:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Luke Evans','Gaston','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,299:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Josh Gad','LeFou','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,299:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Kevin Kline','Maurice','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,300:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Hattie Morahan','Agathe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,300:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Haydn Gwynne','Clothilde','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,301:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gerard Horan','Jean the Potter','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,302:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ray Fearon','Père Robert','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,303:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ewan McGregor','Lumière','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,303:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ian McKellen','Cogsworth','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,304:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Thompson','Mrs. Potts','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,305:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Nathan Mack','Chip','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,305:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Audra McDonald','Madame Garderobe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,306:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Stanley Tucci','Maestro Cadenza','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,307:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gugu Mbatha-Raw','Plumette','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,308:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Clive Rowe','Cuisinier','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 02:50:41,309:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Thomas Padden','Chapeau','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:11,514:__main__:INFO:Connecting to MySQL DB
+2021-11-24 03:03:11,514:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:03:23,102:__main__:INFO:DONE
+2021-11-24 03:03:25,542:__main__:INFO:The connection to the url was succesful
+2021-11-24 03:03:25,555:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Watson','Belle','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,556:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Dan Stevens','Beast','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,556:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Luke Evans','Gaston','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,557:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Josh Gad','LeFou','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,557:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Kevin Kline','Maurice','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,558:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Hattie Morahan','Agathe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,559:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Haydn Gwynne','Clothilde','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,559:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gerard Horan','Jean the Potter','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,560:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ray Fearon','Père Robert','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,561:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ewan McGregor','Lumière','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,561:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ian McKellen','Cogsworth','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,562:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Thompson','Mrs. Potts','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,562:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Nathan Mack','Chip','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,563:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Audra McDonald','Madame Garderobe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,564:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Stanley Tucci','Maestro Cadenza','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,564:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gugu Mbatha-Raw','Plumette','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,565:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Clive Rowe','Cuisinier','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:03:25,566:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Thomas Padden','Chapeau','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:00,215:__main__:INFO:Connecting to MySQL DB
+2021-11-24 03:04:00,216:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:04:04,597:__main__:INFO:DONE
+2021-11-24 03:04:06,175:__main__:INFO:The connection to the url was succesful
+2021-11-24 03:04:06,188:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Watson','Belle','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,189:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Dan Stevens','Beast','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,189:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Luke Evans','Gaston','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,190:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Josh Gad','LeFou','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,190:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Kevin Kline','Maurice','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,191:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Hattie Morahan','Agathe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,192:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Haydn Gwynne','Clothilde','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,192:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gerard Horan','Jean the Potter','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,193:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ray Fearon','Père Robert','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,194:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ewan McGregor','Lumière','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,194:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ian McKellen','Cogsworth','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,195:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Thompson','Mrs. Potts','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,195:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Nathan Mack','Chip','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,196:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Audra McDonald','Madame Garderobe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,197:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Stanley Tucci','Maestro Cadenza','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,197:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gugu Mbatha-Raw','Plumette','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,198:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Clive Rowe','Cuisinier','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:04:06,199:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Thomas Padden','Chapeau','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:05:09,069:__main__:INFO:Connecting to MySQL DB
+2021-11-24 03:05:09,070:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:05:12,184:__main__:INFO:DONE
+2021-11-24 03:05:12,185:__main__:ERROR:Could not reach the url.
+2021-11-24 03:06:42,510:__main__:INFO:Connecting to MySQL DB
+2021-11-24 03:06:42,511:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:06:42,514:__main__:INFO:Migrations table exists
+2021-11-24 03:06:42,516:__main__:INFO:Executing: migration_general_table_construct.sql
+2021-11-24 03:06:42,518:__main__:INFO:None
+2021-11-24 03:07:39,957:__main__:INFO:Connecting to MySQL DB
+2021-11-24 03:07:39,957:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:07:39,963:__main__:INFO:Migrations table exists
+2021-11-24 03:07:39,964:__main__:INFO:Executing: migration_general_table_construct.sql
+2021-11-24 03:07:39,967:__main__:INFO:OK
+2021-11-24 03:22:06,492:__main__:INFO:DONE
+2021-11-24 03:22:06,510:__main__:INFO:Connecting to MySQL DB
+2021-11-24 03:22:06,511:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:22:16,315:__main__:ERROR:Could not reach the url.
+2021-11-24 03:23:18,577:__main__:INFO:DONE
+2021-11-24 03:23:18,594:__main__:INFO:Connecting to MySQL DB
+2021-11-24 03:23:18,595:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:23:23,832:__main__:INFO:The connection to the url was succesful
+2021-11-24 03:23:23,845:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Watson','Belle','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,847:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Dan Stevens','Beast','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,847:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Luke Evans','Gaston','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,848:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Josh Gad','LeFou','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,849:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Kevin Kline','Maurice','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,850:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Hattie Morahan','Agathe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,850:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Haydn Gwynne','Clothilde','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,851:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gerard Horan','Jean the Potter','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,852:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ray Fearon','Père Robert','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,852:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ewan McGregor','Lumière','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,853:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ian McKellen','Cogsworth','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,854:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Thompson','Mrs. Potts','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,854:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Nathan Mack','Chip','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,856:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Audra McDonald','Madame Garderobe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,857:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Stanley Tucci','Maestro Cadenza','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,858:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gugu Mbatha-Raw','Plumette','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,858:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Clive Rowe','Cuisinier','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:23:23,859:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Thomas Padden','Chapeau','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,015:__main__:INFO:The connection to the url was succesful
+2021-11-24 03:27:19,029:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Watson','Belle','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,030:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Dan Stevens','Beast','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,030:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Luke Evans','Gaston','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,031:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Josh Gad','LeFou','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,031:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Kevin Kline','Maurice','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,032:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Hattie Morahan','Agathe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,033:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Haydn Gwynne','Clothilde','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,033:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gerard Horan','Jean the Potter','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,034:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ray Fearon','Père Robert','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,035:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ewan McGregor','Lumière','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,035:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ian McKellen','Cogsworth','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,036:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Thompson','Mrs. Potts','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,037:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Nathan Mack','Chip','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,037:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Audra McDonald','Madame Garderobe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,038:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Stanley Tucci','Maestro Cadenza','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,039:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gugu Mbatha-Raw','Plumette','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,040:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Clive Rowe','Cuisinier','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:19,041:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Thomas Padden','Chapeau','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:27:55,990:__main__:INFO:DONE
+2021-11-24 03:27:56,006:__main__:INFO:Connecting to MySQL DB
+2021-11-24 03:27:56,007:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:28:29,135:__main__:INFO:DONE
+2021-11-24 03:28:29,152:__main__:INFO:Connecting to MySQL DB
+2021-11-24 03:28:29,152:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:28:34,304:__main__:INFO:The connection to the url was succesful
+2021-11-24 03:28:34,317:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Watson','Belle','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,318:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Dan Stevens','Beast','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,319:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Luke Evans','Gaston','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,320:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Josh Gad','LeFou','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,321:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Kevin Kline','Maurice','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,322:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Hattie Morahan','Agathe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,323:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Haydn Gwynne','Clothilde','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,324:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gerard Horan','Jean the Potter','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,325:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ray Fearon','Père Robert','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,325:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ewan McGregor','Lumière','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,326:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ian McKellen','Cogsworth','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,327:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Thompson','Mrs. Potts','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,328:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Nathan Mack','Chip','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,328:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Audra McDonald','Madame Garderobe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,329:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Stanley Tucci','Maestro Cadenza','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,330:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gugu Mbatha-Raw','Plumette','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,330:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Clive Rowe','Cuisinier','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:28:34,331:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Thomas Padden','Chapeau','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 03:51:42,579:Web_scraping_in_Python:INFO:DONE
+2021-11-24 03:51:42,595:Web_scraping_in_Python:INFO:Connecting to MySQL DB
+2021-11-24 03:51:42,596:Web_scraping_in_Python:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:51:52,917:Web_scraping_in_Python:INFO:DONE
+2021-11-24 03:51:52,934:Web_scraping_in_Python:INFO:Connecting to MySQL DB
+2021-11-24 03:51:52,935:Web_scraping_in_Python:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:52:03,813:Web_scraping_in_Python:INFO:DONE
+2021-11-24 03:52:03,830:Web_scraping_in_Python:INFO:Connecting to MySQL DB
+2021-11-24 03:52:03,830:Web_scraping_in_Python:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:52:17,821:Web_scraping_in_Python:INFO:DONE
+2021-11-24 03:52:17,838:Web_scraping_in_Python:INFO:Connecting to MySQL DB
+2021-11-24 03:52:17,839:Web_scraping_in_Python:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:52:52,191:Web_scraping_in_Python:INFO:DONE
+2021-11-24 03:52:52,206:Web_scraping_in_Python:INFO:Connecting to MySQL DB
+2021-11-24 03:52:52,207:Web_scraping_in_Python:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:54:02,900:Web_scraping_in_Python:INFO:DONE
+2021-11-24 03:54:02,916:Web_scraping_in_Python:INFO:Connecting to MySQL DB
+2021-11-24 03:54:02,917:Web_scraping_in_Python:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:54:04,512:Web_scraping_in_Python:ERROR:Could not reach the url.
+2021-11-24 03:54:07,112:Web_scraping_in_Python:INFO:DONE
+2021-11-24 03:54:07,129:Web_scraping_in_Python:INFO:Connecting to MySQL DB
+2021-11-24 03:54:07,130:Web_scraping_in_Python:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:59:34,205:Web_scraping_in_Python:INFO:DONE
+2021-11-24 03:59:34,223:Web_scraping_in_Python:INFO:Connecting to MySQL DB
+2021-11-24 03:59:34,224:Web_scraping_in_Python:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:59:35,861:Web_scraping_in_Python:ERROR:Could not reach the url.
+2021-11-24 03:59:46,889:Web_scraping_in_Python:INFO:DONE
+2021-11-24 03:59:46,907:Web_scraping_in_Python:INFO:Connecting to MySQL DB
+2021-11-24 03:59:46,908:Web_scraping_in_Python:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:59:48,082:Web_scraping_in_Python:ERROR:Could not reach the url.
+2021-11-24 04:03:10,517:Web_scraping_in_Python:INFO:DONE
+2021-11-24 04:03:10,535:Web_scraping_in_Python:INFO:Connecting to MySQL DB
+2021-11-24 04:03:10,536:Web_scraping_in_Python:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 04:03:16,367:Web_scraping_in_Python:INFO:DONE
+2021-11-24 04:03:16,384:Web_scraping_in_Python:INFO:Connecting to MySQL DB
+2021-11-24 04:03:16,384:Web_scraping_in_Python:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 04:27:17,782:__main__:INFO:Connecting to MySQL DB
+2021-11-24 04:27:17,783:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 04:27:17,791:__main__:INFO:Migrations table exists
+2021-11-24 04:27:17,794:__main__:INFO:No migrations to execute
+2021-11-24 04:27:28,828:__main__:INFO:Connecting to MySQL DB
+2021-11-24 04:27:28,828:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 04:27:28,831:__main__:INFO:Migrations table exists
+2021-11-24 04:27:28,832:__main__:INFO:No migrations to execute
+2021-11-24 04:31:06,128:__main__:INFO:DONE
+2021-11-24 04:31:06,144:__main__:INFO:Connecting to MySQL DB
+2021-11-24 04:31:06,145:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 04:31:06,148:__main__:INFO:Migrations table exists
+2021-11-24 04:31:06,149:__main__:INFO:No migrations to execute
+2021-11-24 04:31:38,274:__main__:INFO:DONE
+2021-11-24 04:31:38,292:__main__:INFO:Connecting to MySQL DB
+2021-11-24 04:31:38,293:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 04:31:38,322:__main__:INFO:Executing: migration_general_table_construct.sql
+2021-11-24 04:31:38,324:__main__:INFO:OK
+2021-11-24 04:37:46,022:__main__:INFO:DONE
+2021-11-24 04:37:46,038:__main__:INFO:Connecting to MySQL DB
+2021-11-24 04:37:46,038:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 04:37:58,191:__main__:INFO:The connection to the url was succesful
+2021-11-24 04:37:58,204:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Watson','Belle','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,205:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Dan Stevens','Beast','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,206:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Luke Evans','Gaston','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,207:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Josh Gad','LeFou','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,207:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Kevin Kline','Maurice','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,208:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Hattie Morahan','Agathe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,209:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Haydn Gwynne','Clothilde','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,210:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gerard Horan','Jean the Potter','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,210:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ray Fearon','Père Robert','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,211:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ewan McGregor','Lumière','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,212:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Ian McKellen','Cogsworth','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,212:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Emma Thompson','Mrs. Potts','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,213:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Nathan Mack','Chip','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,213:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Audra McDonald','Madame Garderobe','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,214:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Stanley Tucci','Maestro Cadenza','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,215:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Gugu Mbatha-Raw','Plumette','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,216:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Clive Rowe','Cuisinier','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
+2021-11-24 04:37:58,216:__main__:ERROR:INSERT INTO actors ('actor','role','url') VALUES('Thomas Padden','Chapeau','https://www.imdb.com/title/tt2771200/?ref_=nm_knf_t1')
