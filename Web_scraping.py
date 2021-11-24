@@ -25,7 +25,6 @@ file_handler = logging.FileHandler('Database.log')
 file_handler.setFormatter(formater)
 logger1.addHandler(file_handler)
 
-
 #definē mainīgos, interfeisu un metodi ko tas izmanto.
 root = tk.Tk()
 connection =  None
@@ -40,11 +39,13 @@ try:
 except:
 	logger.exception('')
 logger.info('DONE')
+#tiek inicializēta datu bāze
+logger1.info('Initializing database')
 def init_db():
 	global connection
 	connection = mysql.connector.connect(host=mysql_config_mysql_host, database=mysql_config_mysql_db, user=mysql_config_mysql_user, password=mysql_config_mysql_pass)
 init_db()
-
+logger.info("DONE")
 def get_cursor():
 	global connection
 	try:
@@ -72,7 +73,6 @@ try:
 except Error as e :
 	logger1.error('Error while connecting to MySQL' + str(e))
 
-
 def GetActors():
     
     
@@ -80,6 +80,7 @@ def GetActors():
     lomas = list()
     url = e1.get()
     #ar try  tiek mēģināts savienoties ar ievadīto url, ja neizdodas tad tiek izvadīts kļūdas paziņojums log failā
+    logger.info("Connecting to Url.")
     try:
         html = urllib.request.urlopen(url).read()
         soup = BeautifulSoup(html, 'html.parser')
@@ -116,7 +117,7 @@ def GetActors():
             else:
                 print(str(i) + '.Actor '+aktieri[a])
                 i = i+1
-                logger.info('Succesfully printed all the actors listed on the page.')
+        logger.info('Succesfully printed all the actors listed on the page.')
     except:
         logger.info("The given page didn't have any list of actors. Make sure you are using the imdb.com website url.")
         quit()

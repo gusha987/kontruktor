@@ -1,3 +1,4 @@
+#importē nepieciešamo
 import logging
 import mysql.connector
 from mysql.connector import Error
@@ -7,13 +8,14 @@ import os
 import time
 from datetime import datetime
 from configparser import ConfigParser
-
+#Definē logeri
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 formater = logging.Formatter('%(asctime)s:%(name)s:%(levelname)s:%(message)s')
 file_handler = logging.FileHandler('Database.log')
 file_handler.setFormatter(formater)
 logger.addHandler(file_handler)
+#mēģina nolasīt datus no konfig faila
 try:
 	config = ConfigParser()
 	config.read('config.ini')
@@ -27,7 +29,7 @@ logger.info('DONE')
 
 connection =  None
 connected = False
-
+#inicializē datu bāzi
 def init_db():
 	global connection
 	connection = mysql.connector.connect(host=mysql_config_mysql_host, database=mysql_config_mysql_db, user=mysql_config_mysql_user, password=mysql_config_mysql_pass)
@@ -44,7 +46,7 @@ def get_cursor():
 		connection.commit()
 	return connection.cursor()
 
-# Opening connection to mysql DB
+
 logger.info('Connecting to MySQL DB')
 try:
 	# connection = mysql.connector.connect(host=mysql_config_mysql_host, database=mysql_config_mysql_db, user=mysql_config_mysql_user, password=mysql_config_mysql_pass)
@@ -61,7 +63,7 @@ except Error as e :
 	logger.error('Error while connecting to MySQL' + str(e))
 
 
-# Check if table exists
+# definēta funkcija, kas ārbauda vai eksistē tabula
 def mysql_check_if_table_exists(table_name):
 	records = []
 	cursor = get_cursor()
@@ -76,7 +78,7 @@ def mysql_check_if_table_exists(table_name):
 		pass
 	return records
 
-# Create migrations table
+# Definē funkciju kas izveido migrāciju tabulu.
 def mysql_create_migrations_table():
 	cursor = get_cursor()
 	result = []
@@ -90,7 +92,7 @@ def mysql_create_migrations_table():
 		pass
 	return result
 
-# Check if table exists
+# Funkcija, kas pārbauda vai eksistē migrāciju tabula.
 def mysql_check_if_migration_exists(migration_f_name):
 	records = []
 	cursor = get_cursor()
@@ -105,7 +107,7 @@ def mysql_check_if_migration_exists(migration_f_name):
 		pass
 	return records[0][0]
 
-# Exec any sql on DB
+# Uzsāk jebkādu sql komandu
 def mysql_exec_any_sql(sql_query):
 	cursor = get_cursor()
 	status = 0
@@ -121,7 +123,7 @@ def mysql_exec_any_sql(sql_query):
 		pass
 	return status
 
-# Migration value insert
+# Ievada migrācijas datus tabulā
 def mysql_migration_value_insert(name, exec_ts, exec_dt):
 	cursor = get_cursor()
 	try:
@@ -139,14 +141,14 @@ else:
 	logger.info("Migrations table exists")
 
 migrations_list = []
-# Reading all migration file names into an array
+
 cur_dir = os.path.dirname(__file__)
 migrations_files_list = os.listdir(cur_dir + "\\migrations")
 for f_name in migrations_files_list:
 	if f_name.endswith('.sql'):
 		migrations_list.append(f_name)
 
-# Sorting list to be processed in the correct order
+# sakārto sarakstu lai to nolasītu secīgi
 migrations_list.sort(reverse=False)
 
 counter = 0
