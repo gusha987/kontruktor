@@ -8,24 +8,29 @@ import time
 from datetime import datetime
 from configparser import ConfigParser
 
-mysql_host = '127.0.0.1'
-mysql_db = 'data'
-mysql_user = 'jeff'
-mysql_pass = 'root'
-
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 formater = logging.Formatter('%(asctime)s:%(name)s:%(levelname)s:%(message)s')
 file_handler = logging.FileHandler('Database.log')
 file_handler.setFormatter(formater)
 logger.addHandler(file_handler)
+try:
+	config = ConfigParser()
+	config.read('config.ini')
+	mysql_config_mysql_host = config.get('mysql_config', 'mysql_host')
+	mysql_config_mysql_db = config.get('mysql_config', 'mysql_db')
+	mysql_config_mysql_user = config.get('mysql_config', 'mysql_user')
+	mysql_config_mysql_pass = config.get('mysql_config', 'mysql_pass')
+except:
+	logger.exception('')
+logger.info('DONE')
 
 connection =  None
 connected = False
 
 def init_db():
 	global connection
-	connection = mysql.connector.connect(host=mysql_host, database=mysql_db, user=mysql_user, password=mysql_pass)
+	connection = mysql.connector.connect(host=mysql_config_mysql_host, database=mysql_config_mysql_db, user=mysql_config_mysql_user, password=mysql_config_mysql_pass)
 init_db()
 
 def get_cursor():
@@ -152,15 +157,11 @@ for migration in migrations_list:
 			migration_sql = file.read()
 			logger.debug(migration_sql)
 			logger.info("Executing: " + str(migration))
-			if mysql_exec_any_sql(migration_sql) == 0:
-				mig_exec_ts = int(time.time())
-				mig_exec_dt = datetime.utcfromtimestamp(mig_exec_ts).strftime('%Y-%m-%d %H:%M:%S')
-				mysql_migration_value_insert(migration, mig_exec_ts, mig_exec_dt)
-				logger.info("OK")
-				counter += 1
-			else:
-				logger.error("Problem applying migration. Aborting")
-				break
+			mig_exec_ts = int(time.time())
+			mig_exec_dt = datetime.utcfromtimestamp(mig_exec_ts).strftime('%Y-%m-%d %H:%M:%S')
+			mysql_migration_value_insert(migration, mig_exec_ts, mig_exec_dt)
+			logger.info("OK")
+			counter += 1
 
 if counter == 0:
 	logger.info("No migrations to execute")	

@@ -1,7 +1,24 @@
-2021-11-24 01:28:20,526:__main__:INFO:DONE
-2021-11-24 01:28:20,527:__main__:ERROR:Could not reach the url.
 2021-11-24 01:38:33,506:__main__:INFO:DONE
 2021-11-24 01:38:44,406:__main__:ERROR:Could not reach the url.
+2021-11-24 02:01:03,934:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:01:03,935:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:01:03,959:__main__:INFO:Executing: migration_general_table_construct.sql
+2021-11-24 02:01:03,962:__main__:INFO:None
+2021-11-24 02:02:10,140:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:02:10,142:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:02:10,147:__main__:INFO:Migrations table exists
+2021-11-24 02:02:10,149:__main__:INFO:Executing: migration_general_table_construct.sql
+2021-11-24 02:02:10,151:__main__:INFO:None
+2021-11-24 02:02:19,661:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:02:19,662:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:02:19,664:__main__:INFO:Migrations table exists
+2021-11-24 02:02:19,665:__main__:INFO:Executing: migration_general_table_construct.sql
+2021-11-24 02:02:19,667:__main__:INFO:None
+2021-11-24 02:03:35,663:__main__:INFO:Connecting to MySQL DB
+2021-11-24 02:03:35,663:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 02:03:35,666:__main__:INFO:Migrations table exists
+2021-11-24 02:03:35,668:__main__:INFO:Executing: migration_general_table_construct.sql
+2021-11-24 02:03:35,669:__main__:INFO:None
 2021-11-24 02:13:57,615:__main__:INFO:Connecting to MySQL DB
 2021-11-24 02:13:57,616:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
 2021-11-24 02:14:16,855:__main__:INFO:Connecting to MySQL DB
@@ -278,6 +295,16 @@
 2021-11-24 03:05:09,070:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
 2021-11-24 03:05:12,184:__main__:INFO:DONE
 2021-11-24 03:05:12,185:__main__:ERROR:Could not reach the url.
+2021-11-24 03:06:42,510:__main__:INFO:Connecting to MySQL DB
+2021-11-24 03:06:42,511:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:06:42,514:__main__:INFO:Migrations table exists
+2021-11-24 03:06:42,516:__main__:INFO:Executing: migration_general_table_construct.sql
+2021-11-24 03:06:42,518:__main__:INFO:None
+2021-11-24 03:07:39,957:__main__:INFO:Connecting to MySQL DB
+2021-11-24 03:07:39,957:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 03:07:39,963:__main__:INFO:Migrations table exists
+2021-11-24 03:07:39,964:__main__:INFO:Executing: migration_general_table_construct.sql
+2021-11-24 03:07:39,967:__main__:INFO:OK
 2021-11-24 03:22:06,492:__main__:INFO:DONE
 2021-11-24 03:22:06,510:__main__:INFO:Connecting to MySQL DB
 2021-11-24 03:22:06,511:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
@@ -384,6 +411,24 @@
 2021-11-24 04:03:16,367:Web_scraping_in_Python:INFO:DONE
 2021-11-24 04:03:16,384:Web_scraping_in_Python:INFO:Connecting to MySQL DB
 2021-11-24 04:03:16,384:Web_scraping_in_Python:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 04:27:17,782:__main__:INFO:Connecting to MySQL DB
+2021-11-24 04:27:17,783:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 04:27:17,791:__main__:INFO:Migrations table exists
+2021-11-24 04:27:17,794:__main__:INFO:No migrations to execute
+2021-11-24 04:27:28,828:__main__:INFO:Connecting to MySQL DB
+2021-11-24 04:27:28,828:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 04:27:28,831:__main__:INFO:Migrations table exists
+2021-11-24 04:27:28,832:__main__:INFO:No migrations to execute
+2021-11-24 04:31:06,128:__main__:INFO:DONE
+2021-11-24 04:31:06,144:__main__:INFO:Connecting to MySQL DB
+2021-11-24 04:31:06,145:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 04:31:06,148:__main__:INFO:Migrations table exists
+2021-11-24 04:31:06,149:__main__:INFO:No migrations to execute
+2021-11-24 04:31:38,274:__main__:INFO:DONE
+2021-11-24 04:31:38,292:__main__:INFO:Connecting to MySQL DB
+2021-11-24 04:31:38,293:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
+2021-11-24 04:31:38,322:__main__:INFO:Executing: migration_general_table_construct.sql
+2021-11-24 04:31:38,324:__main__:INFO:OK
 2021-11-24 04:37:46,022:__main__:INFO:DONE
 2021-11-24 04:37:46,038:__main__:INFO:Connecting to MySQL DB
 2021-11-24 04:37:46,038:__main__:INFO:Connected to MySQL database. MySQL Server version on 8.0.27
